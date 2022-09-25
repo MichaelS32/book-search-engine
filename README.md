@@ -24,3 +24,8 @@ https://book-search-engine-32.herokuapp.com/
 
 ## License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
+# Questions?
+## Please contact me:
+  * [My GitHub Profile](https://github.com/jcgom3)
+  * Email me at: [michaelschneider322@gmail.com](mailto:michaelschneider3232@gmail.com) with questions or make an issue about this project.
